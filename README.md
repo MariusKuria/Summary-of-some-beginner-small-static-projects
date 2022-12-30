@@ -10,11 +10,11 @@ _website design project_
 
 ## 🌟 About
 
-This project is for educational porpuses only. To train tactics and techniques working with github.
+This project is for educational porpuses only. To train html and css tactics and techniques, also upload files working with github.
 
-Site published at: https://github.com/MariusKuria/kompas-su-akimis
+Site published at: https://github.com/MariusKuria/lempute1221
 
-Design: [Dizainas](./images/dizainas.jpg)
+Design: [Dizainas](./images/lempute.png)
 
 ## 🎯 Project features/goals
 
