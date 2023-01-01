@@ -14,9 +14,9 @@ This project is for educational porpuses only. To train html and css tactics and
 
 Site published at: https://github.com/MariusKuria/lempute1221
 
-Design: [Dizainas](./images/lempute.png)
+Design: [Design](./images/lempute.png)
 <br>
-Results: [Screenshot](./images/screenshot%20.png)
+Result: [Screenshot](./images/screenshot%20.png)
 
 ## 🎯 Project features/goals
 
