@@ -9,6 +9,7 @@ main {
     width: 800px;
     margin: calc(50% - 400px);
     margin-top: 30px;
+    margin-bottom: 30px;
     border-radius: 10px;
     box-shadow: 20px 20px #a8aeb045;
     display: inline-block;
