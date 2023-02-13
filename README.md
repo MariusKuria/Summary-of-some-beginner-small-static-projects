@@ -10,13 +10,10 @@ _website design project_
 
 ## 🌟 About
 
-This project is a summary of all small beginner projects in one place. Main task was to introduce html and css tactics and techniques, also upload files working with github.
+This project is a summary of all small beginner projects in one place. Main task was to train html and css tactics and techniques as beginner, also upload files working with github.
 
-Site published at: https://github.com/MariusKuria/lempute1221
+Site published at: https://mariuskuria.github.io/Summary-of-all-beginner-small-projects/
 
-Design: [Design](./images/lempute.png)
-<br>
-Result: [Screenshot](./images/screenshot%20.png)
 
 ## 🎯 Project features/goals
 
@@ -46,7 +43,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/MariusKuria/in-sapce-klaseje.git
+   git clone https://github.com/MariusKuria/Summary-of-all-beginner-small-projects.git
    ```
 2. Install NPM packages
    ```sh
