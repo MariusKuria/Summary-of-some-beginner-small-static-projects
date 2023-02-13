@@ -13,7 +13,7 @@
     margin-top: 10px;
 }
 
-p {
+.cat p {
     display: inline-block;
     margin-left: 50px;
     color: #0000008f;
@@ -67,7 +67,7 @@ hr {
     margin-bottom: 20px;
 }
 
-img {
+.cat-img {
     float: right;
     margin-right: 50px;
     width: 40%;

@@ -1,2 +1,9 @@
 @import '../all.css/lamps.css';
 @import '../all.css/cat.css';
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c9ccd2;
+
+}
