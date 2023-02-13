@@ -10,7 +10,7 @@ _website design project_
 
 ## 🌟 About
 
-This project is for educational porpuses only. To train html and css tactics and techniques, also upload files working with github.
+This project is a summary of all small beginner projects in one place. Main task was to introduce html and css tactics and techniques, also upload files working with github.
 
 Site published at: https://github.com/MariusKuria/lempute1221
 
