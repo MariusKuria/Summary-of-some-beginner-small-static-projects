@@ -1,0 +1,67 @@
+.main-astro {
+    background-image: url('../images/astro-images/cosmo-background.png');
+    background-size: 800px;
+    /* position: absolute; */
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    margin-right: calc(50% - 400px);
+    margin-bottom: 5%;
+}
+
+.header-astro {
+    margin-top: 60px;
+    margin-left: 80px
+}
+
+.left-container-astro {
+    width: 35%;
+    float: left;
+    margin-left: 80px;
+    margin-top: 30px;
+    color: #6360a5;
+    line-height: 17px;
+}
+
+.spc-boy {
+    float: right;
+    width: 50%;
+    bottom: 0px;
+    position: relative;
+    margin-right: 40px;
+}
+
+.bottom-container-astro {
+    float: left;
+    margin-top: 20px;
+    margin-left: 80px;
+    line-height: 20px;
+    margin-bottom: 0px;
+}
+
+.bottom-p-astro {
+    margin-bottom: 0px;
+}
+
+.button-astro {
+    box-shadow: 3px 7px 0px -1px #9fb4f2;
+    background: linear-gradient(to bottom, #c27899 5%, #57469c 100%);
+    background-color: #c27899;
+    border-radius: 22px;
+    border: 2px solid #4d9450;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 10px;
+    padding: 7px 43px;
+    text-decoration: none;
+    text-shadow: -1px 1px 4px #283966;
+}
+
+.logo-astro {
+    width: 50px;
+    position: relative;
+    left: 120px;
+    bottom: 40px;
+    line-height: 20px;
+}
