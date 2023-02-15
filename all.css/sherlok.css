@@ -1,0 +1,125 @@
+.serlokas {
+    background-color: aliceblue;
+    width: 800px;
+    margin: calc(50% - 400px);
+    margin-top: 20px;
+    display: inline-block;
+    margin-top: 60px;
+}
+
+.serlokas-img {
+    width: 40%;
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.serlokas-nolight {
+    width: 40%;
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.right-serloks>.serlokas-img,
+.right-serloks:hover>.serlokas-nolight {
+    display: block;
+}
+
+.right-serloks>.serlokas-nolight,
+.right-serloks:hover>.serlokas-img {
+    display: none;
+}
+
+.main-serlokas {
+    width: 50%;
+    /* display: inline-block; */
+    margin-top: 130px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.title-serlokas {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 100px;
+    line-height: 1em;
+    color: black;
+    margin: 0;
+    letter-spacing: 0.2em;
+    text-shadow: 10px 5px 6px green;
+}
+
+.big-p {
+    color: #676f8a;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 0px;
+    line-height: 1.2em;
+    word-spacing: 0.3em;
+    text-align: center;
+}
+
+.small-p {
+    color: #676f8a;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.button-serlokas {
+    background-color: #5b636c;
+    color: aliceblue;
+    padding: 15px;
+    display: inline-block;
+    padding: 15px 20px 15px 20px;
+    text-decoration: none;
+    text-transform: none;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+
+.button-serlokas:hover {
+    color: yellow;
+    box-shadow: 5px 5px yellow;
+}
+
+.serlokas-img-bt {
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.main-container-bt {
+    background-color: aliceblue;
+    width: 45%;
+    margin-top: 150px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.button-bt {
+    background-color: #5b636c;
+    color: aliceblue;
+    padding: 15px;
+    display: inline-block;
+    padding: 15px 20px 15px 20px;
+    text-decoration: none;
+    text-transform: none;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+
+.button-bt:hover {
+    color: greenyellow;
+    box-shadow: 5px 5px greenyellow;
+}
