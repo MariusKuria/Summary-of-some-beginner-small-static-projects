@@ -2,7 +2,7 @@
 ![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Broken Lamp
+# Summary-of-beginner-small-static-projects
 
 _website design project_
 
