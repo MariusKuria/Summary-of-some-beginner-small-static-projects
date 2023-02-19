@@ -4,6 +4,7 @@
 @import '../all.css/astro.css';
 @import '../all.css/astel.css';
 @import '../all.css/labirint.css';
+@import '../all.css/kompas.css';
 
 body {
     font-family: Arial, Helvetica, sans-serif;

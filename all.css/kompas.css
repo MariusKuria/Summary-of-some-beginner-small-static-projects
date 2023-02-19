@@ -1,0 +1,89 @@
+.total-kom {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.total-kom,
+.header-kom,
+.main-kom,
+.img-kom {
+    width: 1000px;
+    margin-left: calc(50% - 500px);
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.main-kom {
+    display: inline-block;
+}
+
+.div-kom {
+    margin-top: 70px;
+    float: left;
+    width: 35%;
+    margin-left: 25px;
+}
+
+.img-kom {
+    width: 58%;
+    float: right;
+    margin-right: 25px;
+}
+
+.header-kom {
+    margin-top: 40px;
+    align-content: center;
+}
+
+.web-link {
+    margin-left: 50px;
+    font-family: copperplate;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-left: 30px;
+    align-content: baseline;
+
+}
+
+.button-kom {
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 2em;
+    text-decoration: none;
+    color: darkgray;
+}
+
+.p-kom {
+    font-size: 35px;
+    margin: 0;
+}
+
+.p-kom:last-of-type {
+    font-size: 13px;
+    margin: 20px 0px 20px auto;
+    margin-left: 0;
+    width: 85%;
+    color: #7B8B8B;
+}
+
+.header-button-kom {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: blueviolet;
+    color: azure;
+}
+
+.div-button-kom {
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    background-color: blueviolet;
+    color: azure;
+    margin-left: 0;
+    padding-top: 10px;
+}
+
+.nav-kom {
+    float: right;
+    margin-right: 25px;
+    font-size: 15px;
+}

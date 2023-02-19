@@ -3,6 +3,7 @@
     width: 800px;
     margin: calc(50% - 400px);
     margin-top: 5px;
+    margin-bottom: 70px;
     box-shadow: 10px 10px 10px 5px rgba(255, 255, 255, 0.421);
 
 }
