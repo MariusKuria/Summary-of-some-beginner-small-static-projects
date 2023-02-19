@@ -15,6 +15,7 @@
 
 .main-kom {
     display: inline-block;
+    box-shadow: none;
 }
 
 .div-kom {
@@ -66,6 +67,10 @@
     color: #7B8B8B;
 }
 
+.p-kom:last-child {
+    padding-bottom: 20px;
+}
+
 .header-button-kom {
     border-radius: 20px;
     padding: 10px;
@@ -86,4 +91,5 @@
     float: right;
     margin-right: 25px;
     font-size: 15px;
+    margin-top: 0;
 }
