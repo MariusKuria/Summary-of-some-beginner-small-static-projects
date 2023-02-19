@@ -12,7 +12,7 @@ _website design project_
 
 This project is a summary of all small beginner projects in one place. Main task was to train html and css tactics and techniques as beginner, also upload files working with github. Here we can find test projects as Lamp, Cat, Sherlock Holmes, AtroGuy, Labyrinth.
 
-Site published at: https://mariuskuria.github.io/Summary-of-all-beginner-small-projects/
+Site published at: https://mariuskuria.github.io/Summary-of-some-beginner-small-static-projects/
 
 
 ## 🎯 Project features/goals
